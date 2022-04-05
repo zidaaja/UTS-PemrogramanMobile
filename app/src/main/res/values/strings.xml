@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Otomotif</string>
+    <string name="motor1">Motor Yamaha Baru</string>
+    <string name="motor2">Motor Bekas</string>
+    <string name="motor3">Nmax Bekas</string>
+    <string name="motor4">Motor Trail</string>
+    <string name="motor5">Motor Yamaha Baru</string>
+    <string name="motor6">Motor Matic Baru</string>
+    <string name="motor7">Yamaha R25</string>
+    <string name="motor8">Yamaha Klasik</string>
+    <string name="motor9">Honda Vario Baru</string>
+    <string name="motor10">Yamaha Byson</string>
+</resources>
